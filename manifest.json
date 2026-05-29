@@ -1,0 +1,12 @@
+{
+  "name": "Brazilian Dog",
+  "description": "Un perro bailarin en la barra de Spotify",
+  "authors": [
+    {
+      "name": "WykosVx",
+      "id": "WykosVx"
+    }
+  ],
+  "type": "extension",
+  "main": "brazilian-dog.js"
+}
