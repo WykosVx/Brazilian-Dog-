@@ -1,12 +1,13 @@
 {
   "name": "Brazilian Dog",
   "description": "Un perro bailarin en la barra de Spotify",
+  "preview": "README.md",
+  "main": "brazilian-dog.js",
+  "readme": "README.md",
   "authors": [
     {
       "name": "WykosVx",
-      "id": "WykosVx"
+      "url": "https://github.com/WykosVx"
     }
-  ],
-  "type": "extension",
-  "main": "brazilian-dog.js"
+  ]
 }
