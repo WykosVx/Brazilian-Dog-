@@ -16,7 +16,7 @@
   </a>
 </p>
 
-# Brazilian Dog 🐶
+# Brazilian Dog 🐶🇵🇾 🇧🇷
 *¡El compañero animado que tu Spotify estaba esperando!* / *The animated companion your Spotify was waiting for!*
 
 ---
