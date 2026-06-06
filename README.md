@@ -23,11 +23,7 @@ Brazilian Dog 🐶
 Brazilian Dog es una extensión para Spicetify que añade un pequeño perrito animado sobre los controles de reproducción. Lo mejor de todo: ¡no es una animación estática! El perrito ajusta su velocidad para bailar sincronizado con el BPM de la canción que estés escuchando.
 
 ✨ Características
-BPM Sync
-Ligero
-Fluido 
-Fácil instalación Compatible con el ecosistema de Spicetify Marketplace.
-.
+BPM Sync Ligero Fluido  Fácil instalación
 🚀 Instalación
 Asegúrate de tener instalado Spicetify.
 
