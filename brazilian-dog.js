@@ -44,15 +44,29 @@ function injectDog() {
         container.appendChild(img);
         target.style.position = "relative";
         target.appendChild(container);
+        let currentBpm = 120;
 
-        setInterval(() => {
-            if (Spicetify.Player.data.isPaused) {
-                img.src = frames[0];
-            } else {
-                img.src = frames[(Date.now() / 80) % frames.length | 0];
-            }
-        }, 80);
-    }
+    const updateBpm = async () => {
+        try {
+            const audioData = await Spicetify.getAudioData();
+            currentBpm = audioData?.track?.tempo || 120;
+        } catch (e) {
+            currentBpm = 120;
+        }
+    };
+    Spicetify.Player.addEventListener("songchange", updateBpm);
+    updateBpm();
+
+setInterval(() => {
+       
+        if (Spicetify.Player.data.isPaused) {
+            img.src = frames[0];
+            return;
+        }
+        const interval = 60000 / (currentBpm * 10);
+        img.src = frames[(Date.now() / interval) % frames.length | 0];
+    }, 50); 
+}
 
     const checkReady = setInterval(() => {
         if (typeof Spicetify !== 'undefined' && Spicetify.Player) {
