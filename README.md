@@ -17,29 +17,32 @@
 </p>
 
 Brazilian Dog 🐶
-¡Un perrito bailando al ritmo de tu música en Spotify!
+¡El compañero animado que tu Spotify estaba esperando!
 
-Descripción
-Esta extensión añade un pequeño amigo animado encima del boton de pausa . El perro baila sincronizado con el ritmo de lo que estés escuchando en ese momento.
+📝 Descripción
+Brazilian Dog es una extensión para Spicetify que añade un pequeño perrito animado sobre los controles de reproducción. Lo mejor de todo: ¡no es una animación estática! El perrito ajusta su velocidad para bailar sincronizado con el BPM de la canción que estés escuchando.
 
-Características
-Animación fluida: Disfruta de la mejor calidad visual mientras escuchas tus canciones favoritas.
-
-Sincronización: El perro baila al compás de la música.
-
-Ligero: No afecta el rendimiento de tu aplicación.
-
-Instalación
+✨ Características
+BPM Sync	 El perro baila al compás exacto de la música.
+Ligero           Optimizado para no consumir recursos innecesarios.
+Fluido           Animaciones suaves integradas naturalmente en la UI.
+Fácil instalación Compatible con el ecosistema de Spicetify Marketplace.
+.
+🚀 Instalación
 Asegúrate de tener instalado Spicetify.
 
-Abre el Marketplace de Spicetify.
+Abre Spicetify Marketplace.
 
-Busca "Brazilian Dog" en la barra de búsqueda.
+Busca "Brazilian Dog" en la pestaña de extensiones.
 
-Haz clic en Install.
+Haz clic en Install y reinicia Spotify.
 
-Soporte
-Si encuentras algún error o tienes alguna sugerencia, por favor abre un Issue en este repositorio.
+🛠 Soporte
+¿Encontraste algún error o tienes una idea para mejorar al perrito?
 
-Créditos
-Desarrollado por [WykosVx].
+Abre un Issue en este repositorio para reportar errores.
+
+¡Las sugerencias de nuevas funciones son bienvenidas!
+
+💎 Créditos
+Desarrollado con ❤️ por WykosVx.
