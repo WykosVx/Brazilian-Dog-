@@ -1,18 +1,18 @@
 
 ![Brazilian Dog bailando](preview.gif)
 
-<p>
-  <a href="https://github.com/spicetify/marketplace/releases/latest">
-    <img src="https://img.shields.io/github/v/release/spicetify/marketplace?include_prereleases">
+<p align="center">
+  <a href="https://github.com/WykosVx/Brazilian-Dog-/releases/latest">
+    <img src="https://img.shields.io/github/v/release/WykosVx/Brazilian-Dog-?include_prereleases">
   </a>
-  <a href="https://github.com/spicetify/marketplace/releases">
-    <img src="https://img.shields.io/github/downloads/spicetify/marketplace/total.svg">
+  <a href="https://github.com/WykosVx/Brazilian-Dog-/releases">
+    <img src="https://img.shields.io/github/downloads/WykosVx/Brazilian-Dog-/total.svg">
   </a>
-  <a href="https://github.com/spicetify/marketplace/issues?q=is%3Aissue+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-closed/spicetify/marketplace">
+  <a href="https://github.com/WykosVx/Brazilian-Dog-/issues?q=is%3Aissue+is%3Aclosed">
+    <img src="https://img.shields.io/github/issues-closed/WykosVx/Brazilian-Dog-">
   </a>
-  <a href="https://github.com/spicetify/marketplace/commits/main">
-    <img src="https://img.shields.io/github/commit-activity/m/spicetify/marketplace">
+  <a href="https://github.com/WykosVx/Brazilian-Dog-/commits/main">
+    <img src="https://img.shields.io/github/commit-activity/m/WykosVx/Brazilian-Dog-">
   </a>
 </p>
 
