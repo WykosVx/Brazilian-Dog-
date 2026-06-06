@@ -1,9 +1,7 @@
-[
-  {
-    "name": "Brazilian Dog",
-    "description": "Un perrito bailando en la barra de Spotify",
-    "preview": "preview.gif",
-    "main": "brazilian-dog.js",
-    "readme": "README.md"
-  }
-]
+{
+  "name": "Brazilian Dog",
+  "description": "Un perrito bailando en la barra de Spotify",
+  "preview": "preview.gif",
+  "main": "brazilian-dog.js",
+  "readme": "README.md"
+}
