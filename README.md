@@ -17,29 +17,31 @@
 </p>
 
 # Brazilian Dog 🐶
-*¡El compañero animado que tu Spotify estaba esperando!*
+*¡El compañero animado que tu Spotify estaba esperando!* / *The animated companion your Spotify was waiting for!*
 
 ---
 
-## 📝 Descripción
-**Brazilian Dog** es una extensión para [Spicetify](https://spicetify.app/) que añade un pequeño perrito animado sobre los controles de reproducción. Lo mejor de todo: **¡no es una animación estática!** El perrito ajusta su velocidad para bailar sincronizado con el BPM de la canción que estés escuchando.
+## 📝 Descripción / Description
+**[ES]** **Brazilian Dog** es una extensión para [Spicetify](https://spicetify.app/) que añade un pequeño perrito animado sobre los controles de reproducción. Lo mejor de todo: **¡no es una animación estática!** El perrito ajusta su velocidad para bailar sincronizado con el BPM de la canción que estés escuchando.
 
-## ✨ Características
-* **BPM Sync**: El perro baila al compás exacto de la música.
-* **Ligero**: Optimizado para no consumir recursos innecesarios.
-* **Fluido**: Animaciones suaves integradas naturalmente en la UI.
-* **Fácil instalación**: Compatible con el ecosistema de Spicetify Marketplace.
+**[EN]** **Brazilian Dog** is a [Spicetify](https://spicetify.app/) extension that adds a small animated dog above the playback controls. Best of all: **it's not a static animation!** The dog adjusts its speed to dance in sync with the BPM of the song you are currently listening to.
 
-## 🚀 Instalación
-1. Asegúrate de tener instalado [Spicetify](https://spicetify.app/).
-2. Abre **Spicetify Marketplace**.
-3. Busca **"Brazilian Dog"** en la pestaña de extensiones.
-4. Haz clic en **Install** y reinicia Spotify.
+## ✨ Características / Features
+* **BPM Sync**: El perro baila al compás exacto de la música. / The dog dances to the exact beat of the music.
+* **Ligero**: Optimizado para no consumir recursos innecesarios. / Optimized to not consume unnecessary resources.
+* **Fluido**: Animaciones suaves integradas naturalmente en la UI. / Smooth animations naturally integrated into the UI.
+* **Fácil instalación**: Compatible con el ecosistema de Spicetify Marketplace. / Compatible with the Spicetify Marketplace ecosystem.
 
-## 🛠 Soporte
-¿Encontraste algún error o tienes una idea para mejorar al perrito?
-* Abre un **[Issue en este repositorio](https://github.com/WykosVx/Brazilian-Dog-/issues)** para reportar errores.
-* ¡Las sugerencias de nuevas funciones son bienvenidas!
+## 🚀 Instalación / Installation
+1. Asegúrate de tener instalado [Spicetify](https://spicetify.app/). / Make sure you have [Spicetify](https://spicetify.app/) installed.
+2. Abre **Spicetify Marketplace**. / Open **Spicetify Marketplace**.
+3. Busca **"Brazilian Dog"** en la pestaña de extensiones. / Search for **"Brazilian Dog"** in the extensions tab.
+4. Haz clic en **Install** y reinicia Spotify. / Click **Install** and restart Spotify.
 
-## 💎 Créditos
-Desarrollado con ❤️ por **[WykosVx](https://github.com/WykosVx)**.
+## 🛠 Soporte / Support
+¿Encontraste algún error o tienes una idea para mejorar al perrito? / Found a bug or have an idea to improve the dog?
+* Abre un **[Issue en este repositorio](https://github.com/WykosVx/Brazilian-Dog-/issues)** para reportar errores. / Open an **[Issue in this repository](https://github.com/WykosVx/Brazilian-Dog-/issues)** to report bugs.
+* ¡Las sugerencias de nuevas funciones son bienvenidas! / New feature suggestions are welcome!
+
+## 💎 Créditos / Credits
+Desarrollado con ❤️ por **[WykosVx](https://github.com/WykosVx)**. / Developed with ❤️ by **[WykosVx](https://github.com/WykosVx)**.
