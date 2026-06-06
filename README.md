@@ -1,6 +1,21 @@
 
 ![Brazilian Dog bailando](preview.gif)
 
+<p>
+  <a href="https://github.com/spicetify/marketplace/releases/latest">
+    <img src="https://img.shields.io/github/v/release/spicetify/marketplace?include_prereleases">
+  </a>
+  <a href="https://github.com/spicetify/marketplace/releases">
+    <img src="https://img.shields.io/github/downloads/spicetify/marketplace/total.svg">
+  </a>
+  <a href="https://github.com/spicetify/marketplace/issues?q=is%3Aissue+is%3Aclosed">
+    <img src="https://img.shields.io/github/issues-closed/spicetify/marketplace">
+  </a>
+  <a href="https://github.com/spicetify/marketplace/commits/main">
+    <img src="https://img.shields.io/github/commit-activity/m/spicetify/marketplace">
+  </a>
+</p>
+
 Brazilian Dog 🐶
 ¡Un perrito bailando al ritmo de tu música en Spotify!
 
