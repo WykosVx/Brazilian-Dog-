@@ -1,7 +1,12 @@
-{
-  "name": "Brazilian Dog",
-  "description": "Un perrito bailando en la barra de Spotify",
-  "preview": "preview.gif",
-  "main": "brazilian-dog.js",
-  "readme": "README.md"
-}
+[
+  {
+    "name": "Brazilian Dog",
+    "description": "Un perrito bailando en la barra de Spotify / An animated dog dancing on the Spotify bar.",
+    "preview": "preview.gif",
+    "main": "brazilian-dog.js",
+    "readme": "README.md",
+    "authors": [
+        { "name": "WykosVx", "url": "https://github.com/WykosVx" }
+    ]
+  }
+]
