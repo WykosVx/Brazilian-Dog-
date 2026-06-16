@@ -1,21 +1,5 @@
 
 ![Brazilian Dog bailando](preview.gif)
-
-<p align="center">
-  <a href="https://github.com/WykosVx/Brazilian-Dog-/releases/latest">
-    <img src="https://img.shields.io/github/v/release/WykosVx/Brazilian-Dog-?include_prereleases">
-  </a>
-  <a href="https://github.com/WykosVx/Brazilian-Dog-/releases">
-    <img src="https://img.shields.io/github/downloads/WykosVx/Brazilian-Dog-/total.svg">
-  </a>
-  <a href="https://github.com/WykosVx/Brazilian-Dog-/issues?q=is%3Aissue+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-closed/WykosVx/Brazilian-Dog-">
-  </a>
-  <a href="https://github.com/WykosVx/Brazilian-Dog-/commits/main">
-    <img src="https://img.shields.io/github/commit-activity/m/WykosVx/Brazilian-Dog-">
-  </a>
-</p>
-
 # Brazilian Dog 🐶🇵🇾 🇧🇷
 *¡El compañero animado que tu Spotify estaba esperando!* / *The animated companion your Spotify was waiting for!*
 
