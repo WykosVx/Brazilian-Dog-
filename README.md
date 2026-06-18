@@ -8,6 +8,8 @@
   
   <img src="https://img.shields.io/badge/Spicetify-Compatible-brightgreen?style=for-the-badge&logo=spotify" alt="Spicetify">
   
+  <img src="https://img.shields.io/github/contributors/WykosVx/Brazilian-Dog-?style=for-the-badge&color=orange" alt="Contributors">
+  
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -16,7 +18,6 @@
   
   <img src="https://img.shields.io/github/stars/WykosVx/Brazilian-Dog-?style=for-the-badge&color=yellow" alt="Stars">
   
-  <img src="https://img.shields.io/github/last-commit/WykosVx/Brazilian-Dog-?style=for-the-badge&color=blueviolet" alt="Last Commit">
 </p>
 
 # Brazilian Dog 🐶🇵🇾 🇧🇷
