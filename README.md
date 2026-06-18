@@ -1,10 +1,24 @@
 
 ![Brazilian Dog bailando](preview.gif)
 
-![GitHub stars](https://img.shields.io/github/stars/WykosVx/Brazilian-Dog-?style=for-the-badge&logo=github&color=brightgreen)
-![GitHub issues](https://img.shields.io/github/issues/WykosVx/Brazilian-Dog-?style=for-the-badge&logo=github&color=orange)
-![GitHub license](https://img.shields.io/github/license/WykosVx/Brazilian-Dog-?style=for-the-badge&color=blue)
-![Spicetify](https://img.shields.io/badge/Spicetify-Compatible-brightgreen?style=for-the-badge&logo=spotify)
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge" alt="Version">
+  
+  <img src="https://img.shields.io/github/license/WykosVx/Brazilian-Dog-?style=for-the-badge&color=green" alt="License">
+  
+  <img src="https://img.shields.io/badge/Spicetify-Compatible-brightgreen?style=for-the-badge&logo=spotify" alt="Spicetify">
+  
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
+  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  
+  <img src="https://img.shields.io/badge/Made%20in-Paraguay%20🇵🇾-red?style=for-the-badge" alt="Paraguay">
+  
+  <img src="https://img.shields.io/github/stars/WykosVx/Brazilian-Dog-?style=for-the-badge&color=yellow" alt="Stars">
+  
+  <img src="https://img.shields.io/github/last-commit/WykosVx/Brazilian-Dog-?style=for-the-badge&color=blueviolet" alt="Last Commit">
+</p>
+
 # Brazilian Dog 🐶🇵🇾 🇧🇷
 *¡El compañero animado que tu Spotify estaba esperando!* / *The animated companion your Spotify was waiting for!*
 
