@@ -1,5 +1,10 @@
 
 ![Brazilian Dog bailando](preview.gif)
+
+![GitHub stars](https://img.shields.io/github/stars/WykosVx/Brazilian-Dog-?style=for-the-badge&logo=github&color=brightgreen)
+![GitHub issues](https://img.shields.io/github/issues/WykosVx/Brazilian-Dog-?style=for-the-badge&logo=github&color=orange)
+![GitHub license](https://img.shields.io/github/license/WykosVx/Brazilian-Dog-?style=for-the-badge&color=blue)
+![Spicetify](https://img.shields.io/badge/Spicetify-Compatible-brightgreen?style=for-the-badge&logo=spotify)
 # Brazilian Dog 🐶🇵🇾 🇧🇷
 *¡El compañero animado que tu Spotify estaba esperando!* / *The animated companion your Spotify was waiting for!*
 
