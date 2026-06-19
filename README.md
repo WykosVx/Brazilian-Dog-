@@ -20,7 +20,7 @@
   
 </p>
 
-# Brazilian Dog 🐶🇵🇾 🇧🇷
+# Brazilian Dog <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Dog%20Face.webp" alt="Dog Face" width="25" height="25" />🇵🇾 🇧🇷
 *¡El compañero animado que tu Spotify estaba esperando!* / *The animated companion your Spotify was waiting for!*
 
 ---
