@@ -25,27 +25,27 @@
 
 ---
 
-## 📝 Descripción / Description
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /> Descripción / Description
 **[ES]** **Brazilian Dog** es una extensión para [Spicetify](https://spicetify.app/) que añade un pequeño perrito animado sobre los controles de reproducción. Lo mejor de todo: **¡no es una animación estática!** El perrito ajusta su velocidad para bailar sincronizado con el BPM de la canción que estés escuchando.
 
 **[EN]** **Brazilian Dog** is a [Spicetify](https://spicetify.app/) extension that adds a small animated dog above the playback controls. Best of all: **it's not a static animation!** The dog adjusts its speed to dance in sync with the BPM of the song you are currently listening to.
 
-## ✨ Características / Features
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Gem%20Stone.webp" alt="Gem Stone" width="25" height="25" /> Características / Features
 * **BPM Sync**: El perro baila al compás exacto de la música. / The dog dances to the exact beat of the music.
 * **Ligero**: Optimizado para no consumir recursos innecesarios. / Optimized to not consume unnecessary resources.
 * **Fluido**: Animaciones suaves integradas naturalmente en la UI. / Smooth animations naturally integrated into the UI.
 * **Fácil instalación**: Compatible con el ecosistema de Spicetify Marketplace. / Compatible with the Spicetify Marketplace ecosystem.
 
-## 🚀 Instalación / Installation
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /> Instalación / Installation
 1. Asegúrate de tener instalado [Spicetify](https://spicetify.app/). / Make sure you have [Spicetify](https://spicetify.app/) installed.
 2. Abre **Spicetify Marketplace**. / Open **Spicetify Marketplace**.
 3. Busca **"Brazilian Dog"** en la pestaña de extensiones. / Search for **"Brazilian Dog"** in the extensions tab.
 4. Haz clic en **Install** y reinicia Spotify. / Click **Install** and restart Spotify.
 
-## 🛠 Soporte / Support
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="25" height="25" /> Soporte / Support
 ¿Encontraste algún error o tienes una idea para mejorar al perrito? / Found a bug or have an idea to improve the dog?
 * Abre un **[Issue en este repositorio](https://github.com/WykosVx/Brazilian-Dog-/issues)** para reportar errores. / Open an **[Issue in this repository](https://github.com/WykosVx/Brazilian-Dog-/issues)** to report bugs.
 * ¡Las sugerencias de nuevas funciones son bienvenidas! / New feature suggestions are welcome!
 
-## 💎 Créditos / Credits
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Sunglasses.webp" alt="Smiling Face With Sunglasses" width="25" height="25" /> Créditos / Credits
 Desarrollado con ❤️ por **[WykosVx](https://github.com/WykosVx)**. / Developed with ❤️ by **[WykosVx](https://github.com/WykosVx)**.
