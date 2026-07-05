@@ -32,6 +32,9 @@
   
 </p>
 
+<img width="534" height="118" alt="Grabación 2026-07-05 123530" src="https://github.com/user-attachments/assets/e5e6a2b5-b17e-40a2-9a7d-34f054e9f067" />
+
+
 # Brazilian Dog <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Dog%20Face.webp" alt="Dog Face" width="25" height="25" />🇵🇾 🇧🇷
 *¡El compañero animado que tu Spotify estaba esperando!* / *The animated companion your Spotify was waiting for!*
 
