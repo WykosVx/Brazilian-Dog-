@@ -16,8 +16,6 @@
   
   <img src="https://img.shields.io/badge/Spicetify-Compatible-brightgreen?style=for-the-badge&logo=spotify" alt="Spicetify">
   
-  <img src="https://img.shields.io/github/contributors/WykosVx/Brazilian-Dog-?style=for-the-badge&color=orange" alt="Contributors">
-  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   
   <img src="https://img.shields.io/badge/Made%20in-Paraguay%20🇵🇾-red?style=for-the-badge" alt="Paraguay">
