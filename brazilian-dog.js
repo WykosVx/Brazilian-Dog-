@@ -10,7 +10,8 @@
             "Normal": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites.png",
             "Sombrero": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites_sombrero1.png",
             "Lentes": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites_lentes1.png",
-            "Gafas de sol": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites_lentes2.png"
+            "Gafas de sol": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites_lentes2.png",
+            "Deportivo": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites_deportivo1.png",
         },
         sfxUrls: [
             "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Laser_dancehall.mp3",
@@ -65,7 +66,7 @@
                 zIndex: "200000",
                 color: "white"
             });
-            
+
             const menuWidth = 150; 
             const menuHeight = Object.keys(CONFIG.skins).length * 36;
             
