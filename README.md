@@ -3,11 +3,9 @@
   <table border="0">
     <tr>
     <td align="center" valign="middle">
-      <!-- Tu GIF original del perro bailando -->
       <img src="preview.gif" width="140" alt="Brazilian Dog bailando">
     </td>
     <td align="center" valign="middle">
-      <!-- Tu avatar local corregido -->
       <img src="Wykos_avatar.png" width="140" alt="Wykos Avatar">
     </td>
   </tr>
