@@ -26,6 +26,36 @@ console.log("My extension loaded!");
         ]
     };
 
+(async function() {
+    while (!(window.Spicetify && window.Spicetify.Player && window.Spicetify.getAudioData)) {
+        await new Promise(resolve => setTimeout(resolve, 100));
+    }
+
+    const EXTENSION_VERSION = "1.0.1";
+    console.log(`[Brazilian Dog] Versión corriendo: ${EXTENSION_VERSION}`);
+    
+    const CONFIG = {
+        spriteUrl: "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites.png",
+        containerId: "brazilian-dog-container",
+         menuId: "brazilian-dog-menu",
+        totalFrames: 11,
+        cols: 4,
+        frameSize: 40,
+        skins: {
+            "Normal": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites.png",
+            "Sombrero": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites_sombrero1.png",
+            "Lentes": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites_lentes1.png",
+            "Gafas de sol": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites_lentes2.png",
+            "Deportivo": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites_deportivo1.png",
+        },
+        sfxUrls: [
+            "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Laser_dancehall.mp3",
+            "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Siren-Sound2.mp3",
+            "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/airhorn.mp3",
+            "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/hey-dj-sound.mp3"
+        ]
+    };
+
     function injectDog() {
         const target = document.querySelector(".main-nowPlayingBar-center");
         if (!target || document.getElementById(CONFIG.containerId)) return;
@@ -71,7 +101,7 @@ console.log("My extension loaded!");
                 zIndex: "200000",
                 color: "white"
             });
-            
+
             const menuWidth = 150; 
             const menuHeight = Object.keys(CONFIG.skins).length * 36;
             
@@ -144,3 +174,5 @@ console.log("My extension loaded!");
     observer.observe(document.body, { childList: true, subtree: true });
     injectDog();
 })();
+})();
+
