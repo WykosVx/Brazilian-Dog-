@@ -9,6 +9,7 @@
         skins: {
             "Normal": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites.png",
             "Sombrero": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites_sombrero1.png"
+            "Lentes": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites_lentes1.png"
         },
         sfxUrls: [
             "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Laser_dancehall.mp3",
