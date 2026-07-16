@@ -8,8 +8,9 @@
         frameSize: 40,
         skins: {
             "Normal": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites.png",
-            "Sombrero": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites_sombrero1.png"
-            "Lentes": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites_lentes1.png"
+            "Sombrero": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites_sombrero1.png",
+            "Lentes": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites_lentes1.png",
+            "Gafas de sol": "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites_lentes2.png"
         },
         sfxUrls: [
             "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Laser_dancehall.mp3",
@@ -61,9 +62,21 @@
                 border: "1px solid #333",
                 borderRadius: "8px",
                 padding: "5px",
-                zIndex: "100000",
+                zIndex: "200000",
                 color: "white"
             });
+            
+            const menuWidth = 150; 
+            const menuHeight = Object.keys(CONFIG.skins).length * 36;
+            
+            let finalX = x;
+            let finalY = y;
+
+            if (finalX + menuWidth > window.innerWidth) finalX = window.innerWidth - menuWidth - 10;
+            if (finalY + menuHeight > window.innerHeight) finalY = window.innerHeight - menuHeight - 10;
+
+            menu.style.left = finalX + "px";
+            menu.style.top = finalY + "px";
 
             Object.keys(CONFIG.skins).forEach(skinName => {
                 const btn = document.createElement("div");
