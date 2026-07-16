@@ -14,13 +14,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.1.0-blue?style=for-the-badge" alt="Version">
   
-  <img src="https://img.shields.io/github/license/WykosVx/Brazilian-Dog-?style=for-the-badge&color=green" alt="License">
-  
   <img src="https://img.shields.io/badge/Spicetify-Compatible-brightgreen?style=for-the-badge&logo=spotify" alt="Spicetify">
   
   <img src="https://img.shields.io/github/contributors/WykosVx/Brazilian-Dog-?style=for-the-badge&color=orange" alt="Contributors">
-  
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   
