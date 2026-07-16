@@ -1,4 +1,11 @@
-(function() {
+(async function() {
+    while (!(window.Spicetify && window.Spicetify.Player && window.Spicetify.getAudioData)) {
+        await new Promise(resolve => setTimeout(resolve, 100));
+    }
+
+    const EXTENSION_VERSION = "1.0.1";
+    console.log(`[Brazilian Dog] Versión corriendo: ${EXTENSION_VERSION}`);
+    
     const CONFIG = {
         spriteUrl: "https://raw.githubusercontent.com/WykosVx/Brazilian-Dog-/main/assets/Sprites.png",
         containerId: "brazilian-dog-container",
