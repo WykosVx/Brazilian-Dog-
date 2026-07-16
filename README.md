@@ -35,9 +35,9 @@
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /> Descripción / Description
-**[ES]** **Brazilian Dog** es una extensión para [Spicetify](https://spicetify.app/) que añade un pequeño perrito animado sobre los controles de reproducción. Lo mejor de todo: **¡no es una animación estática!** El perrito ajusta su velocidad para bailar sincronizado con el BPM de la canción que estés escuchando y ademas puedes elegir el estilo de tu perro y ademas al hacer click encima de el hace algun efecto de sonido ideal para tus jornadas musicales.
+**[ES]** **Brazilian Dog** es una extensión para [Spicetify](https://spicetify.app/) que añade un pequeño perrito animado sobre los controles de reproducción. Lo mejor de todo: **¡no es una animación estática!** El perrito ajusta su velocidad para bailar sincronizado con el BPM de la canción que estés escuchando y ademas puedes elegir el estilo de tu perro con click izquierdo y ademas al hacer click derecho encima de el hace algun efecto de sonido ideal para tus jornadas musicales.
 
-**[EN]** **Brazilian Dog** is a [Spicetify](https://spicetify.app/) extension that adds a small animated dog above the playback controls. Best of all: **it's not a static animation!** The dog adjusts its speed to dance in sync with the BPM of the song you are currently listening to plus, you can choose your dog's style, and clicking on it triggers a sound effect—perfect for your musical sessions.
+**[EN]** **Brazilian Dog** is a [Spicetify](https://spicetify.app/) extension that adds a small animated dog above the playback controls. Best of all: **it's not a static animation!** The dog adjusts its speed to dance in sync with the BPM of the song you are currently listening to plus, you can choose your dog's style with a left-click, and right-clicking on it triggers a sound effect—perfect for your musical sessions.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Gem%20Stone.webp" alt="Gem Stone" width="25" height="25" /> Características / Features
 * **BPM Sync**: El perro baila al compás exacto de la música. / The dog dances to the exact beat of the music.
