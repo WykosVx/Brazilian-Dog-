@@ -1,6 +1,6 @@
-[
-  {
+ {
     "name": "Brazilian Dog",
+    "version": "1.1.1",
     "description": "Un perrito bailando en la barra de Spotify / An animated dog dancing on the Spotify bar.",
     "preview": "preview.gif",
     "main": "brazilian-dog.js",
@@ -9,4 +9,3 @@
         { "name": "WykosVx", "url": "https://github.com/WykosVx" }
     ]
   }
-]
